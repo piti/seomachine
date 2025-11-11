@@ -1,11 +1,43 @@
-# [YOUR COMPANY] Brand Voice & Messaging
+# Coherent AI Brand Voice & Messaging
 
-<!-- INSTRUCTIONS: This template defines your brand voice, tone, and messaging framework.
-     Fill in all [BRACKETED] sections with your company's specific information.
-     Delete these instruction comments when done.
-     See examples/castos/ for a complete real-world example. -->
+**Last Updated**: 2025-11-10
+**Source**: `/docs/07_Branding_Voice_Guide.md`
 
-This document defines the [YOUR COMPANY] brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
+This document defines the Coherent AI brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
+
+---
+
+## Core Brand Identity
+
+**What We Are:**
+- **AI Systems Architects** (not consultants) - We design coherent technology ecosystems
+- **Strategic Advisory Firm** - High-touch, personalized guidance for transformational projects
+- **Platform Engineering Veterans** - 20+ years building mission-critical infrastructure at AMD and Intel
+- **Integration Specialists** - Making disparate AI tools work together as coherent systems
+- **Boutique Practice** - Selective clients, quality over quantity
+
+**What We're NOT:**
+- An AI agency
+- AI consultants (we're architects)
+- Marketing-focused AI advisors
+- Tool resellers or software vendors
+- Generic business consultants
+
+**Primary Tagline:** "AI Systems Architecture for Serious Businesses"
+
+**Core Brand Promise:** Transform AI confusion into strategic clarity through systems-level thinking
+
+**Brand Personality:** Technically sophisticated, confident without arrogance, substantive, selective
+
+---
+
+## Brand Narrative
+
+*We're not consultants who learned AI last year. We're systems architects who spent decades building mission-critical infrastructure at AMD and Intel—where a single miscalculation could cost millions and a security flaw could compromise entire platforms.*
+
+*Now we apply that same rigorous, systems-level thinking to business AI transformation. We don't just recommend tools. We architect coherent ecosystems where every component works in harmony with your existing operations, your team's capabilities, and your growth trajectory.*
+
+*This is strategic advisory work for business leaders who understand the difference between buying software and building systems.*
 
 ## Brand Voice Pillars
 
